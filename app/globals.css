@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Manrope:wght@200..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.layout {
+  @apply w-[90%] max-w-screen-xl mx-auto;
+}
+
+.heading {
+  @apply text-5xl xl:text-7xl text-white font-heading
+}
+
+
+.hero-img{
+  background: linear-gradient(270deg, #1B8BA5, #DF5174,#E9D6E3);
+  background-size: 400% 400%;
+
+  -webkit-animation: AnimationName 7s ease infinite;
+  -moz-animation: AnimationName 7s ease infinite;
+  animation: AnimationName 7s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+  0%{background-position:0% 26%}
+  50%{background-position:100% 75%}
+  100%{background-position:0% 26%}
+}
+@-moz-keyframes AnimationName {
+  0%{background-position:0% 26%}
+  50%{background-position:100% 75%}
+  100%{background-position:0% 26%}
+}
+@keyframes AnimationName {
+  0%{background-position:0% 26%}
+  50%{background-position:100% 75%}
+  100%{background-position:0% 26%}
+}
+
+

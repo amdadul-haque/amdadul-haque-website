@@ -1,0 +1,4 @@
+interface projectInterface{
+  title: String,
+  
+}
