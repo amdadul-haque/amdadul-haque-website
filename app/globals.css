@@ -11,6 +11,12 @@
   @apply text-5xl xl:text-7xl text-white font-heading
 }
 
+:root{
+  --primary: rgb(134, 239, 172);
+  --secondary: rgb(59, 130, 246);
+  --tertiary: rgb(147, 51, 234);
+}
+
 
 .hero-img{
   background: linear-gradient(270deg, #1B8BA5, #DF5174,#E9D6E3);
