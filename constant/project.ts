@@ -14,7 +14,7 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://ilmari-1.vercel.app/",
-    industries: ["",""],
+    industries: ["Tech","Service"],
     isHidden: false
   },
   {
@@ -23,7 +23,7 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://cables-n-kits.vercel.app/",
-    industries: ["",""],
+    industries: ["Tech","E-commerce"],
     isHidden: false
   },
   {
@@ -32,7 +32,7 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://www.trayn.ca/",
-    industries: ["",""],
+    industries: ["Tech","Software"],
     isHidden: false
   },
   {
@@ -41,7 +41,7 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://www.grandson.media.pl/",
-    industries: ["",""],
+    industries: ["Film","Art"],
     isHidden: false
   },
   {
@@ -50,7 +50,7 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://mb9inc.com/",
-    industries: ["",""],
+    industries: ["Tech","Software"],
     isHidden: false
   },
   {
@@ -59,7 +59,7 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://axis-windows.vercel.app/",
-    industries: ["",""],
+    industries: ["Service","Construction"],
     isHidden: false
   },
   {
@@ -68,7 +68,7 @@ export const projects = [
     description: "Mastering frame rate conversion",
     image: "",
     liveUrl: "https://althero.vercel.app/",
-    industries: ["",""],
+    industries: ["Tech"],
     isHidden: false
   },
   {
@@ -77,7 +77,7 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://casino-king.vercel.app/",
-    industries: ["",""],
+    industries: ["Casino","Gambling"],
     isHidden: false
   },
   {
@@ -86,7 +86,7 @@ export const projects = [
     description: "Go whereever, whenever",
     image: "",
     liveUrl: "https://miwayz.vercel.app/",
-    industries: ["",""],
+    industries: ["Service","Transportation"],
     isHidden: false
   },
   {
@@ -95,12 +95,12 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://cozy-cottage.vercel.app/",
-    industries: ["Real Estate",""],
+    industries: ["Real Estate"],
     isHidden: false
   },
   {
     sl: 12,
-    title: "",
+    title: "Hamaguire",
     description: "",
     image: "",
     liveUrl: "https://hamaguire.com/",
@@ -131,7 +131,7 @@ export const projects = [
     description: "",
     image: "",
     liveUrl: "https://dizzbe.vercel.app/",
-    industries: ["AI","Shopping", "Clothing", "Fashion", "E-commerce"],
+    industries: ["AI","Shopping", "Fashion"],
     isHidden: false
   },
   {
@@ -166,7 +166,7 @@ export const projects = [
     title: "Katy Garage Door Repair",
     description: "",
     image: "",
-    liveUrl: "https://3-katygaragedoor.vercel.app/",
+    liveUrl: "https://katygaragedoor.repair/",
     industries: ["Repair","Service"],
     isHidden: false
   },
